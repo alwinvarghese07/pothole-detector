@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954072822961",
+    "project_id": "roadsense-697b8",
+    "storage_bucket": "roadsense-697b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954072822961:android:7e5bedecef92eaad819e90",
+        "android_client_info": {
+          "package_name": "com.example.pothole_reporter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm0wWSi682lw-V_xO-OyFm5q3XbtwlKuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
